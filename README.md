@@ -1,6 +1,6 @@
 # Fofura e Fofucho: Pong Battle
 
-In this short game, you and a friend play as Fofucho and Fofura! Bpth pf you guys are trying to win an epic pong battle with a bick rock that you guys found!
+In this short game, you and a friend play as Fofucho and Fofura! Both of you guys are trying to win an epic pong battle with a bick rock that you guys found!
 
 To play as Fofucho, press "W" to go up and "S" to go down.
 
